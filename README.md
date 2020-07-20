@@ -8,8 +8,8 @@
 ### Latest posts from 📝 [xiaozhu.dev](https://xiaozhu.dev)
 
 - [Vue 文档编写指南「译」](https://xiaozhu.dev/post/vue-docs-writing-guide/) (2020-7-19)
-- [Navigator.sendBeacon API 异步发送数据](https://xiaozhu.dev/post/send-beacon-api/) (2020-7-15)
-- [创造 Vue3 的过程](https://xiaozhu.dev/post/the-process-of-making-vue-3/) (2020-6-2)
+- [Navigator.sendBeacon API 异步发送数据](https://xiaozhu.dev/post/send-beacon-api/) (2020-7-14)
+- [创造 Vue3 的过程「译」](https://xiaozhu.dev/post/the-process-of-making-vue-3/) (2020-6-2)
 
 ### TIL from [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
