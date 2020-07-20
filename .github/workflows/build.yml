@@ -1,0 +1,33 @@
+name: README builder
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '59 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+
+      - name: Install packages
+        run: npm install
+
+      - name: (Re)build README
+        run: npm --silent run build > README.md
+
+      - name: Configure git
+        run: |
+          git config --global user.email "qmacro-bot@example.com"
+          git config --global user.name "qmacro bot"
+
+      - name: Commit README changes
+        run: |
+          git add README.md
+          git commit -m 'update README' || exit 0
+          git push

@@ -1,0 +1,22 @@
+{
+  "name": "mopig",
+  "version": "1.0.0",
+  "description": "mopig's profile on GitHub",
+  "main": "build.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mopig/mopig.git"
+  },
+  "keywords": [],
+  "author": "Leo",
+  "license": "MIT",
+  "homepage": "https://github.com/mopig/mopig#readme",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "rss-parser": "^3.8.0"
+  }
+}
