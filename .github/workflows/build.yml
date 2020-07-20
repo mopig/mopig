@@ -23,8 +23,8 @@ jobs:
 
       - name: Configure git
         run: |
-          git config --global user.email "qmacro-bot@example.com"
-          git config --global user.name "qmacro bot"
+          git config --global user.email "admin@xiaozhu.dev"
+          git config --global user.name "rust-bot"
 
       - name: Commit README changes
         run: |
