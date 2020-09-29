@@ -13,9 +13,9 @@
 
 ### TIL from [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
+- [animation 基本使用](https://github.com/mopig/til/blob/master/css/animation-basic.md.md) (2020-9-29)
 - [Docker 常用命令](https://github.com/mopig/til/blob/master/docker/docker-cli.md.md) (2020-9-22)
 - [npm vs npx vs yarn](https://github.com/mopig/til/blob/master/npm/npm-npx-yarn.md) (2020-9-2)
-- [Vue 的优化技巧](https://github.com/mopig/til/blob/master/vue/optimize-skills.md) (2020-8-13)
 
 ### Portfolio
 
