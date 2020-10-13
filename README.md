@@ -13,9 +13,9 @@
 
 ### TIL from [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
-- [animation 基本使用](https://github.com/mopig/til/blob/master/css/animation-basic.md.md) (2020-9-29)
-- [Docker 常用命令](https://github.com/mopig/til/blob/master/docker/docker-cli.md.md) (2020-9-22)
-- [npm vs npx vs yarn](https://github.com/mopig/til/blob/master/npm/npm-npx-yarn.md) (2020-9-2)
+- [Docker 常用命令](https://til.xiaozhu.dev/til/til/docker_docker-cli.md) (2020-10-13)
+- [vs code 前端开发插件推荐](https://til.xiaozhu.dev/til/til/vs-code_extensions.md) (2020-10-13)
+- [animation 基本使用](https://til.xiaozhu.dev/til/til/css_animation-basic.md.md) (2020-9-29)
 
 ### Portfolio
 
