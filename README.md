@@ -13,9 +13,9 @@
 
 ### TIL from [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
-- [Curry 工具函数实现](https://github.com/mopig/til/blob/master/javascript/curry.md) (2021-3-5)
-- [Docker 常用命令](https://github.com/mopig/til/blob/master/docker/docker-cli.md) (2020-10-13)
-- [vs code 前端开发插件推荐](https://github.com/mopig/til/blob/master/vs-code/extensions.md) (2020-10-13)
+- [Curry 工具函数实现](https://til.xiaozhu.dev/javascript/curry) (2021-3-5)
+- [Docker 常用命令](https://til.xiaozhu.dev/docker/docker-cli) (2020-10-13)
+- [vs code 前端开发插件推荐](https://til.xiaozhu.dev/vs-code/extensions) (2020-10-13)
 
 ### Portfolio
 
