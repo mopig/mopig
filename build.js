@@ -6,7 +6,7 @@ const parser = new Parser()
 const { compile } = Handlebars
 const template = compile(source)
 const postsURL = 'https://xiaozhu.dev/index.xml'
-const tilsURL = 'https://til.xiaozhu.dev/til/feed.atom'
+const tilsURL = 'https://til.xiaozhu.dev/tils/feed.atom'
 
 const formatDate = d => new Intl.DateTimeFormat('zh-CN').format(d).replace(/\//g, '-')
 
