@@ -7,9 +7,9 @@
 
 ### Latest posts from 📝 [xiaozhu.dev](https://xiaozhu.dev)
 
+- [前端开发环境 - Mac 篇](https://xiaozhu.dev/post/web-dev-mac-env/) (2021-3-25)
 - [Vue 文档编写指南「译」](https://xiaozhu.dev/post/vue-docs-writing-guide/) (2020-7-19)
 - [Navigator.sendBeacon API 异步发送数据](https://xiaozhu.dev/post/send-beacon-api/) (2020-7-14)
-- [创造 Vue3 的过程「译」](https://xiaozhu.dev/post/the-process-of-making-vue-3/) (2020-6-2)
 
 ### TIL from [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
