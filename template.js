@@ -10,7 +10,7 @@ export default `> 👨🏻‍💻 Web Front-end Developer
 {{#posts}}- [{{title}}]({{link}}) ({{date}})
 {{/posts}}
 
-### TIL from [til.xiaozhu.dev](https://til.xiaozhu.dev)
+### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
 {{#tils}}- [{{title}}]({{link}}) ({{date}})
 {{/tils}}
