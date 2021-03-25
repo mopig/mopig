@@ -11,7 +11,7 @@
 - [Vue 文档编写指南「译」](https://xiaozhu.dev/post/vue-docs-writing-guide/) (2020-7-19)
 - [Navigator.sendBeacon API 异步发送数据](https://xiaozhu.dev/post/send-beacon-api/) (2020-7-14)
 
-### TIL from [til.xiaozhu.dev](https://til.xiaozhu.dev)
+### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
 - [Curry 工具函数实现](https://til.xiaozhu.dev/javascript/curry) (2021-3-5)
 - [Docker 常用命令](https://til.xiaozhu.dev/docker/docker-cli) (2020-10-13)
