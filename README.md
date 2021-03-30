@@ -13,9 +13,9 @@
 
 ### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
+- [查看系统内核和发行版本](https://til.xiaozhu.dev/os/view-macOS) (2021-3-30)
+- [快速启动一个本地的静态服务器](https://til.xiaozhu.dev/http/http_server) (2021-3-30)
 - [Curry 工具函数实现](https://til.xiaozhu.dev/javascript/curry) (2021-3-5)
-- [Docker 常用命令](https://til.xiaozhu.dev/docker/docker-cli) (2020-10-13)
-- [vs code 前端开发插件推荐](https://til.xiaozhu.dev/vs-code/extensions) (2020-10-13)
 
 ### Portfolio
 
