@@ -13,9 +13,9 @@
 
 ### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
+- [初识 Rust](https://til.xiaozhu.dev/rust/day_001) (2021-4-29)
 - [查看系统内核和发行版本](https://til.xiaozhu.dev/os/view-macOS) (2021-3-30)
 - [快速启动一个本地的静态服务器](https://til.xiaozhu.dev/http/http_server) (2021-3-30)
-- [Curry 工具函数实现](https://til.xiaozhu.dev/javascript/curry) (2021-3-5)
 
 ### Portfolio
 
