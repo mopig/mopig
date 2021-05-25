@@ -13,9 +13,9 @@
 
 ### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
+- [With &#x60;npm&#x60; OR &#x60;yarn&#x60; check updates](https://til.xiaozhu.dev/npm/npm-check-updates) (2021-5-25)
 - [初识 Rust](https://til.xiaozhu.dev/rust/day_001) (2021-4-29)
 - [查看系统内核和发行版本](https://til.xiaozhu.dev/os/view-macOS) (2021-3-30)
-- [快速启动一个本地的静态服务器](https://til.xiaozhu.dev/http/http_server) (2021-3-30)
 
 ### Portfolio
 
