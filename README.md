@@ -13,9 +13,9 @@
 
 ### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
+- [sticky 基本使用](https://til.xiaozhu.dev/css/position-sticky) (2021-9-11)
 - [不同的文件夹读取不同的配置文件](https://til.xiaozhu.dev/git/git-config) (2021-6-8)
 - [With &#x60;npm&#x60; OR &#x60;yarn&#x60; check updates](https://til.xiaozhu.dev/npm/npm-check-updates) (2021-5-25)
-- [初识 Rust](https://til.xiaozhu.dev/rust/day_001) (2021-4-29)
 
 ### Portfolio
 
