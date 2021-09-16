@@ -13,9 +13,9 @@
 
 ### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
+- [DNS 服务器分类和域名解析流程](https://til.xiaozhu.dev/network/dns-intro) (2021-9-16)
 - [Node.js 包管理器的管理器 Corepack 的介绍和使用](https://til.xiaozhu.dev/node/corepack) (2021-9-15)
 - [sticky 基本使用](https://til.xiaozhu.dev/css/position-sticky) (2021-9-11)
-- [不同的文件夹读取不同的配置文件](https://til.xiaozhu.dev/git/git-config) (2021-6-8)
 
 ### Portfolio
 
