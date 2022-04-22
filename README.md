@@ -7,9 +7,9 @@
 
 ### Latest posts from 📝 [xiaozhu.dev](https://xiaozhu.dev)
 
+- [深入了解现代浏览器工作原理（一）](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-1/) (2022-4-22)
 - [前端开发环境 - Mac 篇](https://xiaozhu.dev/post/web-dev-mac-env/) (2021-3-25)
 - [Vue 文档编写指南「译」](https://xiaozhu.dev/post/vue-docs-writing-guide/) (2020-7-19)
-- [Navigator.sendBeacon API 异步发送数据](https://xiaozhu.dev/post/send-beacon-api/) (2020-7-14)
 
 ### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
 
