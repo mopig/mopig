@@ -7,8 +7,8 @@
 
 ### Latest posts from 📝 [xiaozhu.dev](https://xiaozhu.dev)
 
-- [深入了解现代浏览器工作原理（二）](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-2/) (2022-4-24)
-- [深入了解现代浏览器工作原理（一）](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-1/) (2022-4-22)
+- [深入了解现代浏览器工作原理（二）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-2/) (2022-4-24)
+- [深入了解现代浏览器工作原理（一）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-1/) (2022-4-22)
 - [前端开发环境 - Mac 篇](https://xiaozhu.dev/post/web-dev-mac-env/) (2021-3-25)
 
 ### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
