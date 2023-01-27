@@ -33,3 +33,8 @@
 ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
 ![pv](https://pageview.vercel.app/?github_user=mopig)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mopig&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopig&hide=TeX&layout=compact)
+
+## 💻 Check Out My Repos ⬇️ 
